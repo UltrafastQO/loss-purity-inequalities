@@ -17,24 +17,3 @@ title: "loss-purity-inequalities"
 version: 1.0.0
 date-released: 2026-04-16
 url: "https://github.com/UltrafastQO/loss-purity-inequalities"
-preferred-citation:
-  type: misc
-  authors:
-  - family-names: "Hertz"
-    given-names: "Anaelle"
-    orcid: "https://orcid.org/0000-0002-9608-512X"
-  - family-names: "Lupu-Gladstein"
-    given-names: "Noah"
-    orcid: "https://orcid.org/0000-0002-6377-2492"
-  - family-names: "Heshami"
-    given-names: "Khabat"
-    orcid: "https://orcid.org/0000-0003-3864-1930"
-  - family-names: "Goldberg"
-    given-names: "Aaron"
-    orcid: "https://orcid.org/0000-0002-3301-7672"
-  doi: "10.48550/arXiv.2501.02047"
-  eprint: "2501.02047"
-  archivePrefix: "arXiv"
-  primaryClass: "quant-ph"
-  title: "Equalities and inequalities from entanglement, loss, and beam splitters"
-  year: 2025
